@@ -1,2 +1,2 @@
 # HelloLayoutTransitionDemo
-LayoutTransition Demo using `ConstraintLayout` 
+A `LayoutTransition` Demo using `ConstraintLayout`.
